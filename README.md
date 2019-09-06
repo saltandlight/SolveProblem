@@ -4,5 +4,5 @@
 - String 처리
 - MergeSort 
 - Brute Force & Permutation
-- 스택
-- 큐
+- Stack
+- Queue
