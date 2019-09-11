@@ -6,3 +6,4 @@
 - Brute Force & Permutation
 - Stack
 - Queue
+- Tree
