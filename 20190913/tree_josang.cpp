@@ -38,11 +38,6 @@ int main() {
   v=x;
   bool flag1=false;
   
-  // for(int i=0;i<n;i++){
-  //   for(int j=0;j<tree[i].inx;j++){
-  //     printf("tree[%d]: %d  ", i,  tree[i].child[j]);
-  //   }printf("\n");
-  // }
  int cnt=3;
  
    while(v!=0){
@@ -60,9 +55,6 @@ int main() {
   }//endwhile
   
   
-  // for(int i=0;i<len1;i++){
-  //   printf("%d ", result1[i]);
-  // }
   
   v=y;
   while(v!=0){
