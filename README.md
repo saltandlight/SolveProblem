@@ -8,3 +8,6 @@
 - Stack
 - Queue
 - Tree
+   - Tree 순회
+   - 우선순위 큐
+   - 힙
