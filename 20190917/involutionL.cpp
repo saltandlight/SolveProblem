@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-const int MAX = 1010;
+const int MAX = 10010;
 
 int main() {
 
@@ -12,11 +12,13 @@ int main() {
 	int ans = 1;
 	res[0] = ans;
 
-	for (int i = 1; i < 1007; i++) {
-		ans = (n * ans) % 1007;
+	for (int i = 1; i < 10007; i++) {
+		ans = (n * ans) % 10007;
 		res[i] = ans;
 	}
-	m = m % 1006;
+
+
+	m = m % 10006;
 	printf("%lld", res[m]);
 
 	return 0;
