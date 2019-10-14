@@ -12,3 +12,5 @@
    - 우선순위 큐
    - 힙
 - Divide and Conquer
+- DFS
+- BFS
