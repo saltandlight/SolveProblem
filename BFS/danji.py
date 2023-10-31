@@ -1,6 +1,6 @@
 import sys
-input = sys.stdin.readline
 
+input = sys.stdin.readline
 N = int(input())
 maps = []
 check = [[False] * N for _ in range(N)]
