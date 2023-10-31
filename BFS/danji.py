@@ -1,3 +1,14 @@
+'''
+문제:
+- https://www.acmicpc.net/problem/2667
+아이디어:
+- BFS
+  큐 사용
+  while loop 사용+visited 배열(boolean)
+시간복잡도:
+- O(V+E)
+'''
+
 import sys
 
 input = sys.stdin.readline

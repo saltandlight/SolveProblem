@@ -1,3 +1,13 @@
+'''
+문제:
+- https://www.acmicpc.net/problem/4963
+아이디어:
+- DFS
+  재귀 함수 사용+visited 배열(boolean)
+시간복잡도:
+- O(V+E)
+'''
+
 import sys
 sys.setrecursionlimit(10000)
 
